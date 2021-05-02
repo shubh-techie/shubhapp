@@ -1,1 +1,2 @@
 Hello Shubh, Welcome to the Git demo !
+Hello Shubh, Welcome to the Git demo ! - making changes 
